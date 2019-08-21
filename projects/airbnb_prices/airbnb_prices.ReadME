@@ -1,0 +1,4 @@
+this project involves predicitng Airbnb listing prices
+raw data was collected and cleaned from various sources which was then turned into a combonation of text and numerical features
+several machine learning algorathims including linear regression, and logistic regression
+bootstraping and cross-validation methods were used in parameter tuning and algorathim testing 
